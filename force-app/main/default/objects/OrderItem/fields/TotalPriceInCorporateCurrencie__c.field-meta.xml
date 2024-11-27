@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TotalPriceInCorporateCurrencie__c</fullName>
+    <description>Used in advanced currency management</description>
+    <externalId>false</externalId>
+    <inlineHelpText>The price in the corporations default currency</inlineHelpText>
+    <label>Total Price In Corporate Currencie</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackHistory>false</trackHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>
